@@ -1,0 +1,11 @@
+13.git fetch origin - ги земам гранките од remote repository.
+14.git checkout 1-remove-a-task-by-name - за да се префрлам на соодветната гранка.
+16.git commit -a -m 'Message' - за да го додадам фајлот на stage па да го комитнам.
+17.git push - за да ги ставам новите промени од local на remote repository.
+19.Го правиме истото за другите два issues.
+22.git checkout master - за да се префрлам на master.
+git pull - за да ги земам последните промени.
+git merge 2-find-all-completed-tasks - за да ја спојам гранката со master и оставам commit порака.
+23.git push за да синхронизирам со remote repository
+25.notepad logs.txt - креирам датотека и во неа го ставам влезот од git log --oneline --graph --all.
+26.git push

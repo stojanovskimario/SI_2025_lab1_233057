@@ -1,0 +1,15 @@
+*   4816432 (HEAD -> master, origin/master, origin/HEAD) Merge branch '2-find-all-completed-tasks' with master
+|\
+| * 0e97923 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implemented a function fto find all completed tasks
+* |   e12b8c4 Merge pull request #12 from stojanovskimario/4-sort-tasks-by-priority
+|\ \
+| * | de20db7 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implemented a function sort tasks by priority
+| |/
+* |   1d0620d Merge pull request #10 from stojanovskimario/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * 592cf2c (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implemented a function remove a task by name
+|/
+* 2d580ad Add starter code
+* 7a6772b Initial commit
