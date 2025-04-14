@@ -3,6 +3,7 @@
 16.git commit -a -m 'Message' - за да го додадам фајлот на stage па да го комитнам.
 17.git push - за да ги ставам новите промени од local на remote repository.
 19.Го правиме истото за другите два issues.
+20.Немаше конфликти при спојување.
 22.git checkout master - за да се префрлам на master.
 git pull - за да ги земам последните промени.
 git merge 2-find-all-completed-tasks - за да ја спојам гранката со master и оставам commit порака.
